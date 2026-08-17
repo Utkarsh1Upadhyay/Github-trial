@@ -1,0 +1,2 @@
+A new file created in the main branch while the feature branch is doing its own thing simultaneously
+to see how will the merging happen and how these two remain separate from each other in their changes
